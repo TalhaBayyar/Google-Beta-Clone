@@ -1,0 +1,79 @@
+body{
+    width: 100%;
+    overflow: hidden;
+    margin-top: 200px;
+}
+
+#Container{
+    width: 100%;
+    text-align: center;
+    display: block;
+}
+
+.card{
+    width: 90%;
+    background: #dddddd;
+    margin: 1px auto;     
+}
+
+.Search{
+    width: 340px;
+    display: block;
+    margin: 1px auto;
+}
+
+.Big-Box{
+    width: 90%;
+    height: 80%;
+    position: relative;
+    bottom: 14px;
+    background: rgb(59, 181, 169);
+    margin: 1px auto; 
+}
+
+.Special-Searches{
+    vertical-align: middle;
+    text-align: center;
+    display: block;
+    width: 550px;
+    height: 250px;
+    float: left;
+    border-right: 2px solid white;
+}
+
+
+.Big-Box2{
+    text-align: center;
+    display: block;
+    width: 550px;
+    height: 250px;
+    float: left;
+    border-right: 2px solid white;
+}
+
+.Big-Box3{
+    display: block;
+
+}
+
+.Subscribe{
+    display: block;
+    position: relative;
+    left: 250px;
+}
+
+.Archive{
+    display: block;
+    position: relative;
+    bottom: 20px;
+    left: 50px;
+}
+
+.your-mail{
+    height: 18px;
+
+}
+.updates-monthly{
+    position: relative;
+    top: -10px;
+}
